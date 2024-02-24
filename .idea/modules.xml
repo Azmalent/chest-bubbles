@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/chestbubbles.iml" filepath="$PROJECT_DIR$/chestbubbles.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chestbubbles.main.iml" filepath="$PROJECT_DIR$/.idea/modules/chestbubbles.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chestbubbles.test.iml" filepath="$PROJECT_DIR$/.idea/modules/chestbubbles.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/chest-bubbles.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/chest-bubbles.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/chest-bubbles.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/chest-bubbles.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/chest-bubbles.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/chest-bubbles.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/chest-bubbles.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/chest-bubbles.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/chest-bubbles.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/chest-bubbles.forge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/chest-bubbles.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/chest-bubbles.forge.test.iml" />
     </modules>
   </component>
 </project>
